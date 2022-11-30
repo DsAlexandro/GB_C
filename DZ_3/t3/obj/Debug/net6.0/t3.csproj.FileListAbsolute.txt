@@ -1,0 +1,15 @@
+/media/alexandro/Data/GB/1.C#/C#/GB_C/DZ_3/t3/bin/Debug/net6.0/t3
+/media/alexandro/Data/GB/1.C#/C#/GB_C/DZ_3/t3/bin/Debug/net6.0/t3.deps.json
+/media/alexandro/Data/GB/1.C#/C#/GB_C/DZ_3/t3/bin/Debug/net6.0/t3.runtimeconfig.json
+/media/alexandro/Data/GB/1.C#/C#/GB_C/DZ_3/t3/bin/Debug/net6.0/t3.dll
+/media/alexandro/Data/GB/1.C#/C#/GB_C/DZ_3/t3/bin/Debug/net6.0/t3.pdb
+/media/alexandro/Data/GB/1.C#/C#/GB_C/DZ_3/t3/obj/Debug/net6.0/t3.csproj.AssemblyReference.cache
+/media/alexandro/Data/GB/1.C#/C#/GB_C/DZ_3/t3/obj/Debug/net6.0/t3.GeneratedMSBuildEditorConfig.editorconfig
+/media/alexandro/Data/GB/1.C#/C#/GB_C/DZ_3/t3/obj/Debug/net6.0/t3.AssemblyInfoInputs.cache
+/media/alexandro/Data/GB/1.C#/C#/GB_C/DZ_3/t3/obj/Debug/net6.0/t3.AssemblyInfo.cs
+/media/alexandro/Data/GB/1.C#/C#/GB_C/DZ_3/t3/obj/Debug/net6.0/t3.csproj.CoreCompileInputs.cache
+/media/alexandro/Data/GB/1.C#/C#/GB_C/DZ_3/t3/obj/Debug/net6.0/t3.dll
+/media/alexandro/Data/GB/1.C#/C#/GB_C/DZ_3/t3/obj/Debug/net6.0/refint/t3.dll
+/media/alexandro/Data/GB/1.C#/C#/GB_C/DZ_3/t3/obj/Debug/net6.0/t3.pdb
+/media/alexandro/Data/GB/1.C#/C#/GB_C/DZ_3/t3/obj/Debug/net6.0/t3.genruntimeconfig.cache
+/media/alexandro/Data/GB/1.C#/C#/GB_C/DZ_3/t3/obj/Debug/net6.0/ref/t3.dll
